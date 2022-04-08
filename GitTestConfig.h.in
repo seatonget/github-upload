@@ -1,0 +1,3 @@
+// the configured options and settings for GitTest
+#define GitTest_VERSION_MAJOR @GitTest_VERSION_MAJOR@
+#define GitTest_VERSION_MINOR @GitTest_VERSION_MINOR@
